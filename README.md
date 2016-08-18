@@ -20,7 +20,7 @@ Simply add **LinearProgressBar.swift** file on your project.
 ####CocoaPods
 You can use [Cocoapods](http://cocoapods.org/) to install `Linear Progress Bar` by adding it to your `Podfile`:
 ```ruby
-platform :ios, '8.0'
+platform :ios, '7.0'
 use_frameworks!
 
 target 'MyApp' do
